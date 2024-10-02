@@ -1,0 +1,27 @@
+Answer1.Two types of Boolean data type are True and False .their first letter in uppercase.
+Answer 2.Three types of boolean operators are (and,or, not)
+
+Answer5.Six COmparison operators:
+1)==
+2)!=
+3)>
+4)<
+5)>=
+6)<=
+
+Answer6.
+Difference between (==) and (=):
+== is a comparison operator used to check if two values are equal .
+= is the assignment operator used to assign a value to a variable.
+
+Answer10.
+DIffernce between continue and break:
+break:it is used to terminate the loop forcefully.
+continue:it skips the current loop iteration and moves to the next itration. the loop doesnt stop,it just skips to the next cycle.
+Answer11.
+rangw(10)=starts at 0 default and end at 9
+range(0,10)=starts at 0 and ends at 9
+range(0,10,1)=stats at 0 ends at 9 
+the result will be the same(0,1,2,3,4,5,6,7,8,9)
+
+
